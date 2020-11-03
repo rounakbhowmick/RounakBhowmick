@@ -1,15 +1,10 @@
 <p align="center">
   <img src="https://github.com/rounakbhowmick/rounakbhowmick/blob/main/avatar.png" width="200px">
-  <br>
-  <samp>
-    <br>
-  # Hey there, I am Rounak! 👋
-    <br><br>
-  </samp>
+  <br> 
 </p>
 
 
-
+ # Hey there, I am Rounak! 👋
 Here are some ideas to get you started:
 
 * 🔭 I’m currently working on ChatBot
