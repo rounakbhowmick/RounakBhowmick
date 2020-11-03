@@ -1,4 +1,14 @@
-# Hey there, I am Rounak! 👋
+<p align="center">
+  <img src="https://github.com/rounakbhowmick/rounakbhowmick/blob/master/avatar.png" width="200px">
+  <br>
+  <samp>
+    <br>
+  # Hey there, I am Rounak! 👋
+    <br><br>
+  </samp>
+</p>
+
+
 
 Here are some ideas to get you started:
 
