@@ -1,14 +1,7 @@
-<div style="display: flex;">
- <div style="display: flex; flex: 50%; padding: 10px;
-  height: 300px;">
- <p>
-  <img src="https://github.com/rounakbhowmick/rounakbhowmick/blob/main/avatar.png" width="300px">
- <br>
- <br>
-</p>
-</div>
- <div style="display: flex; flex: 50%;padding: 10px;
-  height: 300px;">
+<div style="display: flex;
+	width: auto;">
+
+ <div style="display: flex; flex: 50%;">
  # Hey there, I am Rounak! 👋
 Here are some ideas to get you started:
 
@@ -24,6 +17,10 @@ Here are some ideas to get you started:
   - LinkedIn: [rounakbhowmick](https://www.linkedin.com/in/rounakbhowmick/)
 * 😄 Pronouns: He/His
 * ⚡ Fun fact: I learn new technologies quickly. Don't believe me? Try me!
+</div>
+
+ <div style="display: flex; flex: 50%;justify-content: center;">
+  <img src="https://github.com/rounakbhowmick/rounakbhowmick/blob/main/avatar.png" width="300px">
 </div>
 </div>
 
