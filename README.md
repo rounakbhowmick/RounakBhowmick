@@ -1,4 +1,4 @@
- <p align="right">
+ <p align="center">
   <img src="https://github.com/rounakbhowmick/rounakbhowmick/blob/main/avatar.png" width="300px">
  <br>
  <br>
