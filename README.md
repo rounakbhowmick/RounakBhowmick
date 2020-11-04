@@ -1,5 +1,5 @@
 <div style="display: flex;
-	width: auto; flex-direction:column;">
+	width: auto; flex-direction:row;">
 
  <div style="display: flex; flex: 50%;">
  # Hey there, I am Rounak! 👋
