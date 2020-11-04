@@ -1,7 +1,7 @@
-<div style="display: flex;
-	width: auto; flex-direction:row;">
+<div style="display: grid;
+  grid-template-columns: 1fr 1fr;">
 
- <div style="display: flex; flex: 50%;">
+ <div>
  # Hey there, I am Rounak! 👋
 Here are some ideas to get you started:
 
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 * ⚡ Fun fact: I learn new technologies quickly. Don't believe me? Try me!
 </div>
 
- <div style="display: flex; flex: 50%;justify-content: center;">
+ <div>
   <img src="https://github.com/rounakbhowmick/rounakbhowmick/blob/main/avatar.png" width="300px">
 </div>
 </div>
