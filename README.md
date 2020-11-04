@@ -1,11 +1,12 @@
-<div >
- <div>
+<div style="display: flex;">
+ <div style="flex: 50%;">
  <p align="center">
   <img src="https://github.com/rounakbhowmick/rounakbhowmick/blob/main/avatar.png" width="300px">
  <br>
  <br>
 </p>
 </div>
+ <div style="flex: 50%;">
  # Hey there, I am Rounak! 👋
 Here are some ideas to get you started:
 
@@ -21,6 +22,7 @@ Here are some ideas to get you started:
   - LinkedIn: [rounakbhowmick](https://www.linkedin.com/in/rounakbhowmick/)
 * 😄 Pronouns: He/His
 * ⚡ Fun fact: I learn new technologies quickly. Don't believe me? Try me!
+</div>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
