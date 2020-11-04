@@ -1,7 +1,7 @@
 <div style="display: flex;">
  <div style="display: flex; flex: 50%; padding: 10px;
   height: 300px;">
- <p align="center">
+ <p>
   <img src="https://github.com/rounakbhowmick/rounakbhowmick/blob/main/avatar.png" width="300px">
  <br>
  <br>
