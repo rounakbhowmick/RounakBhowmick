@@ -1,9 +1,8 @@
 <div style="display: grid;
   grid-template-columns: 1fr 1fr;">
-
- <div>
  # Hey there, I am Rounak! 👋
 Here are some ideas to get you started:
+ <div>
 
 * 🔭 I’m currently working on ChatBot Application
 * 🌱 I’m currently learning React.js
