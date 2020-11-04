@@ -1,12 +1,14 @@
 <div style="display: flex;">
- <div style="display: flex; flex: 50%;">
+ <div style="display: flex; flex: 50%; padding: 10px;
+  height: 300px;">
  <p align="center">
   <img src="https://github.com/rounakbhowmick/rounakbhowmick/blob/main/avatar.png" width="300px">
  <br>
  <br>
 </p>
 </div>
- <div style="display: flex; flex: 50%;">
+ <div style="display: flex; flex: 50%;padding: 10px;
+  height: 300px;">
  # Hey there, I am Rounak! 👋
 Here are some ideas to get you started:
 
