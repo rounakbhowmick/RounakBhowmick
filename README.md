@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 
 * 🔭 I’m currently working on ChatBot Application
-* 🌱 I’m currently learning React.js
+* 🌱 I’m currently learning Node Js
 * 👯 I’m looking to collaborate on Web Dev Projects
 * 💬 Ask me about:
   - Java
